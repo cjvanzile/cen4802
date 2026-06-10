@@ -27,5 +27,8 @@ public class Main {
         int term = 10;
         int result = fibonacci(term);
         System.out.println("The " + term + "th term of the Fibonacci sequence is " + result + ".");
+
+        // minor update for enhancement branch
+
     }
 }
